@@ -61,10 +61,10 @@ Fixing problems with code:
 
 Author: Mikołaj Nawrocki
 
-* [Email](mikolaj.nawrocki@o2.pl)
+* Email: mikolaj.nawrocki@o2.pl
 
-Linkedin: https://www.linkedin.com/in/mikołaj-nawrocki/
+[Linkedin](https://www.linkedin.com/in/mikołaj-nawrocki/)
 
-Game Design Document: https://drive.google.com/file/d/1VbqU7ZyoyBY3MA1nGtmWcHY_ulsCjEo5/view?usp=drivesdk
+[Game Design Document](https://drive.google.com/file/d/1VbqU7ZyoyBY3MA1nGtmWcHY_ulsCjEo5/view?usp=drivesdk)
 
-YouTube: https://www.youtube.com/watch?v=iiFG_WPQxJY&list=PLkP8j7UNrzynOhEA8jUWLz-uZ2C-jqBFv
+[YouTube](https://www.youtube.com/watch?v=iiFG_WPQxJY&list=PLkP8j7UNrzynOhEA8jUWLz-uZ2C-jqBFv)
