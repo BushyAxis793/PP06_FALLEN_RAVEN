@@ -61,7 +61,7 @@ Fixing problems with code:
 
 Author: Mikołaj Nawrocki
 
-* [Email] (mikolaj.nawrocki@o2.pl)
+* [Email](mikolaj.nawrocki@o2.pl)
 
 Linkedin: https://www.linkedin.com/in/mikołaj-nawrocki/
 
